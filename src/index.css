@@ -20,6 +20,7 @@
   -moz-osx-font-smoothing: grayscale;
 
   /* pulling colors from reasonable-colors library */
+  /* https://www.reasonable.work/colors/ */
 
   --header-height: 160px;
   --medium-radius: 22px;
@@ -36,6 +37,10 @@
 
   --medium-yellow: var(--color-yellow-1);
   --dark-yellow: var(--color-yellow-2);
+}
+
+html {
+  font-size: 20px;
 }
 
 body {
