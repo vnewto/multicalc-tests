@@ -1,6 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useContext } from 'react';
+import { OperandContext } from './App';
 
-function Form({ operand, setOperand }) {
+function Form() {
+  const { operand, setOperand } = useContext(OperandContext);
   const [workingOperand, setWorkingOperand] = useState(0);
 
   useEffect(() => {

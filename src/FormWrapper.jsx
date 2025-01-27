@@ -1,9 +1,9 @@
 import Form from './Form';
 
-function FormWrapper({ operand, setOperand }) {
+function FormWrapper() {
   return (
     <>
-      <Form operand={operand} setOperand={setOperand} />
+      <Form />
       <hr />
     </>
   );

@@ -1,10 +1,10 @@
 import Calculator from './Calculator';
 
-function CalculatorWrapper({ operand }) {
+function CalculatorWrapper() {
   return (
     <>
       <h2>Calculations</h2>
-      <Calculator operand={operand} />
+      <Calculator />
     </>
   );
 }
