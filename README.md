@@ -8,19 +8,20 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-1. Clone the repository:
+1. Fork the repository into your account.
+2. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/multicalc.git
+   git clone https://github.com/YOUR-USERNAME/multicalc.git
    ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
    ```sh
    cd multicalc
    ```
+4. Install the dependencies:
 
-3. Install the dependencies:
 
    ```sh
    npm install
@@ -49,4 +50,5 @@ This will execute the test suite and display the results in the terminal.
 - Be sure to pay close attention to *all* of the text each test outputs.
 - Fix each error highlighted by the tests.
 - Don't make any changes to any of the test files.
-- Once complete, open a PR and submit the link with the assignment form.
+- Once complete, open a PR against the forked repo and submit the link with the assignment form.
+
