@@ -12,7 +12,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/multicalc.git
+   git clone https://github.com/YOUR-USERNAME/multicalc.git
    ```
 
 3. Navigate to the project directory:
