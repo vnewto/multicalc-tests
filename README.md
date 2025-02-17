@@ -1,5 +1,52 @@
-# Pleasant Start
+# Multi-Calc
 
-React project template undergirded by Vite and the vanilla react template. Sprinkled with opinions and assets for a quick start.
+This project is a React-based calculator application that contains a few problems.The repo contains 2 test files, each containing 1 or more tests that fail. Your task is to resolve the code that leads to the failed tests.
 
-- uses [Reasonable Colors](https://www.reasonable.work/colors/) for color custom properties
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/your-username/multicalc.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd multicalc
+   ```
+
+3. Install the dependencies:
+
+   ```sh
+   npm install
+   ```
+
+### Running the Application
+
+To start the development server, run:
+
+```sh
+npm run dev
+```
+
+This will start the application and you can view it in your browser at `http://localhost:3000`.
+
+### Running Tests
+
+To run the tests in the CLI, use the following command:
+
+```sh
+npm run test
+```
+
+This will execute the test suite and display the results in the terminal.
+
+- Be sure to pay close attention to *all* of the text each test outputs.
+- Fix each error highlighted by the tests.
+- Don't make any changes to any of the test files.
+- Once complete, open a PR and submit the link with the assignment form.
