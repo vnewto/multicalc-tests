@@ -1,7 +1,7 @@
 import { useMemo, useContext } from 'react';
 import Calculation from './Calculation';
 import styles from './Calculator.module.css';
-import { OperandContext } from './App';
+import { OperandContext } from './context/OperandContext';
 
 function Calculator() {
   const { operand } = useContext(OperandContext);

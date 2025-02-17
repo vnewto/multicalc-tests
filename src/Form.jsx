@@ -1,5 +1,5 @@
 import { useState, useEffect, useContext } from 'react';
-import { OperandContext } from './App';
+import { OperandContext } from './context/OperandContext';
 
 function Form() {
   const { operand, setOperand } = useContext(OperandContext);

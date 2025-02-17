@@ -1,9 +1,8 @@
-import { useState, createContext } from 'react';
+import { useState } from 'react';
 import './App.css';
 import FormWrapper from './FormWrapper';
 import CalculatorWrapper from './CalculatorWrapper';
-
-export const OperandContext = createContext(null);
+import { OperandContext } from './context/OperandContext';
 
 function App() {
   const [operand, setOperand] = useState(0);
