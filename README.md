@@ -59,4 +59,4 @@ This will execute the test suite and display the results in the terminal.
 3. Work through the tests, fixing the code so that the tests fail. Don’t make any changes to the test files - !!
 4. Once all your tests pass, publish your working branch to GitHub.
 5. Open a PR as you would normally.
-6. DM a link to the PR to your reviewer AND me.
+6. DM a link to the PR to your reviewer AND the React CIL.
