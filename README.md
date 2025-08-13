@@ -54,9 +54,11 @@ This will execute the test suite and display the results in the terminal.
 
 ### Submitting the Assignment
 
+_Make sure that the todo assignment and this assignment are both done. You will be submitting both PR links on the same form._
+
 1. Clone Code-the-Dream-School/multicalc-tests to your own GitHub account
 2. Clone that down to you local machine and create a working branch.
 3. Work through the tests, fixing the code so that the tests fail. Don’t make any changes to the test files - !!
 4. Once all your tests pass, publish your working branch to GitHub.
 5. Open a PR as you would normally.
-6. DM a link to the PR to your reviewer AND the React CIL.
+6. Add the PR link into the second URL field for the week's assignment submission. 
